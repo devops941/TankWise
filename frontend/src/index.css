@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-gradient: linear-gradient(135deg, #0f172a 0%, #0e7490 55%, #7c3aed 100%);
+  --glass-fill: rgba(255, 255, 255, 0.08);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  --accent-cyan: #22d3ee;
+  --accent-violet: #a78bfa;
+  --status-success: #34d399;
+  --status-warn: #fbbf24;
+  --status-danger: #f87171;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: var(--bg-gradient);
+  min-height: 100vh;
+  color: white;
+}
+
+@supports not (backdrop-filter: blur(20px)) {
+  .glass {
+    background: rgba(15, 23, 42, 0.95) !important;
+  }
+}
+
+/* Animated gradient blobs behind the app (Section 4.4 & 4.7) */
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-25px) rotate(8deg); }
+}
+
+.blob {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.35;
+  z-index: 0;
+  pointer-events: none;
+  animation: float 22s ease-in-out infinite;
+}
+
+.blob-cyan {
+  width: 420px;
+  height: 420px;
+  background: #22d3ee;
+  top: -60px;
+  left: -80px;
+}
+
+.blob-violet {
+  width: 480px;
+  height: 480px;
+  background: #7c3aed;
+  bottom: -100px;
+  right: -80px;
+  animation-delay: -8s;
+}
+
+.glass-nav-item {
+  transition: all 0.2s ease;
+}
+
+.glass-nav-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(34, 211, 238, 0.25);
+}
+
+.glass-nav-item.active {
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.22), rgba(167, 139, 250, 0.18));
+  border: 1px solid rgba(34, 211, 238, 0.45);
+  color: #22d3ee;
+  box-shadow: 0 0 16px rgba(34, 211, 238, 0.12);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .blob { animation: none; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

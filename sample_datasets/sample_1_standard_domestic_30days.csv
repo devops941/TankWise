@@ -1,0 +1,188 @@
+timestamp,level_pct,note
+2026-10-20 12:00:00,93.0,Afternoon household baseline
+2026-10-20 16:00:00,90.9,Afternoon household baseline
+2026-10-20 20:00:00,84.9,Evening cooking & wash
+2026-10-21 00:00:00,84.5,Quiet night baseline
+2026-10-21 04:00:00,84.4,Quiet night baseline
+2026-10-21 08:00:00,77.2,Morning peak domestic draw
+2026-10-21 12:00:00,75.1,Afternoon household baseline
+2026-10-21 16:00:00,72.9,Afternoon household baseline
+2026-10-21 20:00:00,67.3,Evening cooking & wash
+2026-10-22 00:00:00,67.0,Quiet night baseline
+2026-10-22 04:00:00,66.8,Quiet night baseline
+2026-10-22 08:00:00,59.5,Morning peak domestic draw
+2026-10-22 12:00:00,56.6,Afternoon household baseline
+2026-10-22 16:00:00,53.9,Afternoon household baseline
+2026-10-22 20:00:00,48.5,Evening cooking & wash
+2026-10-23 00:00:00,48.3,Quiet night baseline
+2026-10-23 04:00:00,48.1,Quiet night baseline
+2026-10-23 08:00:00,41.1,Morning peak domestic draw
+2026-10-23 12:00:00,38.8,Afternoon household baseline
+2026-10-23 16:00:00,35.8,Afternoon household baseline
+2026-10-23 20:00:00,30.3,Evening cooking & wash
+2026-10-24 00:00:00,30.1,Quiet night baseline
+2026-10-24 04:00:00,29.9,Quiet night baseline
+2026-10-24 08:00:00,22.9,Morning peak domestic draw
+2026-10-24 12:00:00,20.7,Low level before automated refill
+2026-10-24 12:45:00,96.8,Automated pump refill cycle completed
+2026-10-24 16:00:00,93.9,Afternoon household baseline
+2026-10-24 20:00:00,88.1,Evening cooking & wash
+2026-10-25 00:00:00,87.8,Quiet night baseline
+2026-10-25 04:00:00,87.4,Quiet night baseline
+2026-10-25 08:00:00,81.5,Morning peak domestic draw
+2026-10-25 12:00:00,79.1,Afternoon household baseline
+2026-10-25 16:00:00,76.1,Afternoon household baseline
+2026-10-25 20:00:00,70.4,Evening cooking & wash
+2026-10-26 00:00:00,70.0,Quiet night baseline
+2026-10-26 04:00:00,69.7,Quiet night baseline
+2026-10-26 08:00:00,63.7,Morning peak domestic draw
+2026-10-26 12:00:00,61.4,Afternoon household baseline
+2026-10-26 16:00:00,58.8,Afternoon household baseline
+2026-10-26 20:00:00,52.9,Evening cooking & wash
+2026-10-27 00:00:00,52.6,Quiet night baseline
+2026-10-27 04:00:00,52.4,Quiet night baseline
+2026-10-27 08:00:00,46.9,Morning peak domestic draw
+2026-10-27 12:00:00,44.6,Afternoon household baseline
+2026-10-27 16:00:00,41.8,Afternoon household baseline
+2026-10-27 20:00:00,37.2,Evening cooking & wash
+2026-10-28 00:00:00,36.9,Quiet night baseline
+2026-10-28 04:00:00,36.6,Quiet night baseline
+2026-10-28 08:00:00,30.6,Morning peak domestic draw
+2026-10-28 12:00:00,28.3,Afternoon household baseline
+2026-10-28 16:00:00,25.8,Afternoon household baseline
+2026-10-28 20:00:00,20.0,Low level before automated refill
+2026-10-28 20:45:00,97.1,Automated pump refill cycle completed
+2026-10-29 00:00:00,96.8,Quiet night baseline
+2026-10-29 04:00:00,96.4,Quiet night baseline
+2026-10-29 08:00:00,89.5,Morning peak domestic draw
+2026-10-29 12:00:00,86.9,Afternoon household baseline
+2026-10-29 16:00:00,84.9,Afternoon household baseline
+2026-10-29 20:00:00,79.8,Evening cooking & wash
+2026-10-30 00:00:00,79.7,Quiet night baseline
+2026-10-30 04:00:00,79.4,Quiet night baseline
+2026-10-30 08:00:00,73.8,Morning peak domestic draw
+2026-10-30 12:00:00,71.2,Afternoon household baseline
+2026-10-30 16:00:00,68.7,Afternoon household baseline
+2026-10-30 20:00:00,63.5,Evening cooking & wash
+2026-10-31 00:00:00,63.3,Quiet night baseline
+2026-10-31 04:00:00,63.2,Quiet night baseline
+2026-10-31 08:00:00,57.3,Morning peak domestic draw
+2026-10-31 12:00:00,54.5,Afternoon household baseline
+2026-10-31 16:00:00,51.7,Afternoon household baseline
+2026-10-31 20:00:00,46.4,Evening cooking & wash
+2026-11-01 00:00:00,46.2,Quiet night baseline
+2026-11-01 04:00:00,45.9,Quiet night baseline
+2026-11-01 08:00:00,39.3,Morning peak domestic draw
+2026-11-01 12:00:00,37.2,Afternoon household baseline
+2026-11-01 16:00:00,34.9,Afternoon household baseline
+2026-11-01 20:00:00,30.1,Evening cooking & wash
+2026-11-02 00:00:00,29.8,Quiet night baseline
+2026-11-02 04:00:00,29.7,Quiet night baseline
+2026-11-02 08:00:00,23.2,Morning peak domestic draw
+2026-11-02 12:00:00,20.5,Low level before automated refill
+2026-11-02 12:45:00,97.3,Automated pump refill cycle completed
+2026-11-02 16:00:00,94.9,Afternoon household baseline
+2026-11-02 20:00:00,90.4,Evening cooking & wash
+2026-11-03 00:00:00,90.0,Quiet night baseline
+2026-11-03 04:00:00,89.9,Quiet night baseline
+2026-11-03 08:00:00,83.9,Morning peak domestic draw
+2026-11-03 12:00:00,81.1,Afternoon household baseline
+2026-11-03 16:00:00,78.8,Afternoon household baseline
+2026-11-03 20:00:00,73.0,Evening cooking & wash
+2026-11-04 00:00:00,72.9,Quiet night baseline
+2026-11-04 04:00:00,72.7,Quiet night baseline
+2026-11-04 08:00:00,67.2,Morning peak domestic draw
+2026-11-04 12:00:00,65.0,Afternoon household baseline
+2026-11-04 16:00:00,62.6,Afternoon household baseline
+2026-11-04 20:00:00,56.4,Evening cooking & wash
+2026-11-05 00:00:00,56.3,Quiet night baseline
+2026-11-05 04:00:00,56.0,Quiet night baseline
+2026-11-05 08:00:00,49.9,Morning peak domestic draw
+2026-11-05 12:00:00,47.2,Afternoon household baseline
+2026-11-05 16:00:00,45.1,Afternoon household baseline
+2026-11-05 20:00:00,40.0,Evening cooking & wash
+2026-11-06 00:00:00,39.6,Quiet night baseline
+2026-11-06 04:00:00,39.4,Quiet night baseline
+2026-11-06 08:00:00,32.1,Morning peak domestic draw
+2026-11-06 12:00:00,29.7,Afternoon household baseline
+2026-11-06 16:00:00,27.0,Afternoon household baseline
+2026-11-06 20:00:00,21.2,Low level before automated refill
+2026-11-06 20:45:00,95.9,Automated pump refill cycle completed
+2026-11-07 00:00:00,95.6,Quiet night baseline
+2026-11-07 04:00:00,95.5,Quiet night baseline
+2026-11-07 08:00:00,89.7,Morning peak domestic draw
+2026-11-07 12:00:00,87.5,Afternoon household baseline
+2026-11-07 16:00:00,84.4,Afternoon household baseline
+2026-11-07 20:00:00,78.2,Evening cooking & wash
+2026-11-08 00:00:00,78.0,Quiet night baseline
+2026-11-08 04:00:00,77.8,Quiet night baseline
+2026-11-08 08:00:00,71.9,Morning peak domestic draw
+2026-11-08 12:00:00,69.2,Afternoon household baseline
+2026-11-08 16:00:00,66.3,Afternoon household baseline
+2026-11-08 20:00:00,61.4,Evening cooking & wash
+2026-11-09 00:00:00,61.2,Quiet night baseline
+2026-11-09 04:00:00,61.0,Quiet night baseline
+2026-11-09 08:00:00,53.9,Morning peak domestic draw
+2026-11-09 12:00:00,51.0,Afternoon household baseline
+2026-11-09 16:00:00,48.3,Afternoon household baseline
+2026-11-09 20:00:00,42.7,Evening cooking & wash
+2026-11-10 00:00:00,42.4,Quiet night baseline
+2026-11-10 04:00:00,42.0,Quiet night baseline
+2026-11-10 08:00:00,36.0,Morning peak domestic draw
+2026-11-10 12:00:00,33.6,Afternoon household baseline
+2026-11-10 16:00:00,30.4,Afternoon household baseline
+2026-11-10 20:00:00,24.3,Evening cooking & wash
+2026-11-11 00:00:00,23.9,Quiet night baseline
+2026-11-11 04:00:00,23.6,Quiet night baseline
+2026-11-11 08:00:00,17.7,Low level before automated refill
+2026-11-11 08:45:00,96.9,Automated pump refill cycle completed
+2026-11-11 12:00:00,94.6,Afternoon household baseline
+2026-11-11 16:00:00,91.5,Afternoon household baseline
+2026-11-11 20:00:00,86.1,Evening cooking & wash
+2026-11-12 00:00:00,85.7,Quiet night baseline
+2026-11-12 04:00:00,85.4,Quiet night baseline
+2026-11-12 08:00:00,78.7,Morning peak domestic draw
+2026-11-12 12:00:00,76.5,Afternoon household baseline
+2026-11-12 16:00:00,73.8,Afternoon household baseline
+2026-11-12 20:00:00,69.3,Evening cooking & wash
+2026-11-13 00:00:00,69.0,Quiet night baseline
+2026-11-13 04:00:00,68.8,Quiet night baseline
+2026-11-13 08:00:00,63.1,Morning peak domestic draw
+2026-11-13 12:00:00,60.6,Afternoon household baseline
+2026-11-13 16:00:00,58.5,Afternoon household baseline
+2026-11-13 20:00:00,53.6,Evening cooking & wash
+2026-11-14 00:00:00,53.3,Quiet night baseline
+2026-11-14 04:00:00,53.0,Quiet night baseline
+2026-11-14 08:00:00,46.5,Morning peak domestic draw
+2026-11-14 12:00:00,43.6,Afternoon household baseline
+2026-11-14 16:00:00,41.3,Afternoon household baseline
+2026-11-14 20:00:00,36.6,Evening cooking & wash
+2026-11-15 00:00:00,36.2,Quiet night baseline
+2026-11-15 04:00:00,36.0,Quiet night baseline
+2026-11-15 08:00:00,28.7,Morning peak domestic draw
+2026-11-15 12:00:00,26.0,Afternoon household baseline
+2026-11-15 16:00:00,23.8,Afternoon household baseline
+2026-11-15 20:00:00,18.1,Low level before automated refill
+2026-11-15 20:45:00,97.2,Automated pump refill cycle completed
+2026-11-16 00:00:00,96.9,Quiet night baseline
+2026-11-16 04:00:00,96.7,Quiet night baseline
+2026-11-16 08:00:00,89.3,Morning peak domestic draw
+2026-11-16 12:00:00,86.4,Afternoon household baseline
+2026-11-16 16:00:00,83.4,Afternoon household baseline
+2026-11-16 20:00:00,77.4,Evening cooking & wash
+2026-11-17 00:00:00,77.2,Quiet night baseline
+2026-11-17 04:00:00,77.0,Quiet night baseline
+2026-11-17 08:00:00,71.4,Morning peak domestic draw
+2026-11-17 12:00:00,68.8,Afternoon household baseline
+2026-11-17 16:00:00,65.9,Afternoon household baseline
+2026-11-17 20:00:00,61.4,Evening cooking & wash
+2026-11-18 00:00:00,61.1,Quiet night baseline
+2026-11-18 04:00:00,60.9,Quiet night baseline
+2026-11-18 08:00:00,54.3,Morning peak domestic draw
+2026-11-18 12:00:00,52.2,Afternoon household baseline
+2026-11-18 16:00:00,49.2,Afternoon household baseline
+2026-11-18 20:00:00,44.1,Evening cooking & wash
+2026-11-19 00:00:00,43.9,Quiet night baseline
+2026-11-19 04:00:00,43.6,Quiet night baseline
+2026-11-19 08:00:00,37.7,Morning peak domestic draw
+2026-11-19 12:00:00,35.5,Afternoon household baseline
